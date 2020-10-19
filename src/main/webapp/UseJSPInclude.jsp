@@ -14,10 +14,10 @@
     <body>
         <h1>Hello World!</h1>
         <div style="position: absolute;bottom: 1px">
+            <jsp:include page="/WEB-INF/ContactSection.jsp"/>
             <!--
             利用 jsp:include 來加入 /WEB=INF/ContactSection.jsp
-            -->
-           
+            -->           
         </div>
     </body>
 </html>

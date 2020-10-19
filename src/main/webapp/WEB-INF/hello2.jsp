@@ -1,7 +1,7 @@
 <%-- 
-    Document   : ContactSection
-    Created on : Sep 23, 2018, 9:06:21 PM
-    Author     : lendle
+    Document   : hello2
+    Created on : 2020/10/19, 下午 04:32:38
+    Author     : user
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -12,6 +12,6 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <p>lilian2240@gmail.com</p>
+        <h1>哈嘍世界</h1>
     </body>
 </html>
